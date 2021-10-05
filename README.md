@@ -1,1 +1,2 @@
 # Color-Mixer
+<img src="https://user-images.githubusercontent.com/56115673/136076109-ddb4590e-a99b-41a0-a8be-af6219f539ac.png" width="150" height="280">  <img src="https://user-images.githubusercontent.com/56115673/136076118-a72fbdff-fc37-4ef1-b855-4edf892c179f.png" width="150" height="280">  <img src="https://user-images.githubusercontent.com/56115673/136076122-f177f192-53cf-4210-9209-b66bc4a01dc8.png" width="150" height="280">  <img src="https://user-images.githubusercontent.com/56115673/136076125-1553fa72-2895-49c3-b20c-6b2b5fc869a0.png" width="150" height="280">
